@@ -92,10 +92,6 @@ ia_car_search/
 └── README.md
 ```
 
-Claro! Aqui está o trecho pronto para ser integrado ao seu `README.md`, no mesmo estilo profissional do restante:
-
----
-
 ## ✅ Executando Testes
 
 Este projeto utiliza `pytest` para testes unitários e `pytest-cov` para geração de relatórios de cobertura.
